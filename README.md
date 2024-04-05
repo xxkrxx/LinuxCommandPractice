@@ -1,6 +1,6 @@
 # LinuxCommandPractice
 
-# 様々なLinuxコマンド（調べたもの 復習）
+# 様々なLinuxコマンド（調べたもの 復習 再提出）
 
 ```
 LinuxCommandPracticeディレクトリ内から移動せずに、practice_dir_1内にpractice_dir_2というディレクトリを作成してください。但し、相対パスを使用してください。
